@@ -38,5 +38,5 @@ public class CustomerTest {
         assertEquals(null, customer.getCar());
     }
 
-    
+
 }
